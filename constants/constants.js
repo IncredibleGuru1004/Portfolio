@@ -1,10 +1,10 @@
-export const NAME = 'Muhammad Osama Javaid';
+export const NAME = 'Jerry Bosco';
 
 export const DESIGNATION = `MERN Stack Developer | Open Source Contributor | Tech Blogger`;
 
 export const DETAILS = {
-  Residence: 'Pakistan',
-  City: 'Peshawar',
+  Residence: 'Philippines',
+  City: 'Porac',
   Age: '23',
 };
 
