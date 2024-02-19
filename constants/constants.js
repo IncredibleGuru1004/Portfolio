@@ -11,7 +11,7 @@ export const DETAILS = {
 export const SKILLS = [
   {
     title: 'MERN Stack Developer',
-    level: '75%',
+    level: '76%',
   },
   {
     title: 'React Developer',
